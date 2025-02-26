@@ -1,6 +1,7 @@
 **Symmetric Non-negative Matrix Factorization (SymNMF) Clustering**
 
 📌 Course: Software Project (0368-2161) - Tel Aviv University
+
 🔍 Languages: Python, C
 
 Project Overview
