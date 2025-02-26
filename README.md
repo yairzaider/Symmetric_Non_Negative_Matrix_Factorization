@@ -1,10 +1,11 @@
 **Symmetric Non-negative Matrix Factorization (SymNMF) Clustering**
 
-📌 Course: Software Project (0368-2161) - Tel Aviv University
+📌 Course: Software Project - Tel Aviv University
 
 🔍 Languages: Python, C
 
-Project Overview
+Project Overview:
+
 This project implements Symmetric Non-negative Matrix Factorization (SymNMF) for clustering, combining Python and C for efficiency. It compares SymNMF with K-Means clustering on different datasets.
 
 Features & Functionality :
